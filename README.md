@@ -11,7 +11,7 @@ SmartStock is an inventory management system designed to help businesses streaml
 
 ## Overview
 
-The SmartStock Inventory Management System is a web-based application that allows businesses to manage their inventory, track stock levels, and analyze sales performance. The system offers features such as product management, stock level alerts, sales analysis, and customer signup tracking.
+The SmartStock Inventory Management System, that allows businesses to manage their inventory, track stock levels, and analyze sales performance. The system offers features such as product management, stock level alerts, sales analysis, and customer signup tracking.
 
 ## Installation and Setup
 
