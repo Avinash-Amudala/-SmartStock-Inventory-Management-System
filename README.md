@@ -19,7 +19,7 @@ To set up the SmartStock Inventory Management System, follow these steps:
 
 1. Clone the repository:
 
-git clone/ https://github.com/Avinash-Amudala/-SmartStock-Inventory-Management-System.git
+git clone https://github.com/Avinash-Amudala/-SmartStock-Inventory-Management-System.git
 
 2. Set up a local development environment with a web server, such as Apache, and a database server, such as MySQL or MariaDB.
 
